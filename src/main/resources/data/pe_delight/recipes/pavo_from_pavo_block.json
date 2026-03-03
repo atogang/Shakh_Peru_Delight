@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pe_delight:pavo_block"
+    }
+  ],
+  "result": {
+    "item": "pe_delight:pavo",
+    "count": 9
+  }
+}

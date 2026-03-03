@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "##X"
+  ],
+  "key": {
+    "#": {
+      "item": "pe_delight:pavo"
+    },
+    "X": {
+      "item": "pe_delight:raw_pavo"
+    }
+  },
+  "result": {
+    "item": "pe_delight:pavo_block",
+    "count": 2
+  }
+}
