@@ -27,6 +27,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.PAVO_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_PAVO_BLOCK.get());
 
+                        pOutput.accept(ModBlocks.PAVO_ORE.get());
+
                     })
                     .build());
 
