@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "pe_delight:pavo_block"
+    }
+  ],
+  "result": [
+    {
+      "count": 9,
+      "item": "pe_delight:pavo"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}
