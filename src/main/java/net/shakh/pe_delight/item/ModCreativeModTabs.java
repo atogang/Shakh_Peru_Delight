@@ -29,6 +29,8 @@ public class ModCreativeModTabs {
 
                         pOutput.accept(ModBlocks.PAVO_ORE.get());
 
+                        pOutput.accept(ModItems.MARACUYA.get());
+
                     })
                     .build());
 
